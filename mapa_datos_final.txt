@@ -12,16 +12,16 @@
  "longitude":-99.12765999999999
  },{
  "title":"4",
- "latitude":15.7611,
- "longitude":-92.5947
+ "latitude":23.46814,
+ "longitude":-106.2717475
  },{
  "title":"5",
  "latitude":27.2722,
  "longitude":-101.9458
  },{
  "title":"6",
- "latitude":24.144370000000002,
- "longitude":-110.3005
+ "latitude":32.3328765,
+ "longitude":-116.929102
  },{
  "title":"7",
  "latitude":23.3557,
