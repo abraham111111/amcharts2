@@ -1,0 +1,51 @@
+[{
+ "title":"Chihuahua", 
+ "valor":23.01,
+ "latitud":28.635279999999998,
+ "longitud":-106.08888999999999
+ },{
+ "title":"Nuevo León", 
+ "valor":21.83,
+ "latitud":25.6714,
+ "longitud":-100.309
+ },{
+ "title":"Ciudad de México", 
+ "valor":25.21,
+ "latitud":19.42847,
+ "longitud":-99.12765999999999
+ },{
+ "title":"Coahuila", 
+ "valor":19.72,
+ "latitud":15.7611,
+ "longitud":-92.5947
+ },{
+ "title":"Sinaloa", 
+ "valor":19.72,
+ "latitud":27.2722,
+ "longitud":-101.9458
+ },{
+ "title":"Baja California Sur", 
+ "valor":24.12,
+ "latitud":24.144370000000002,
+ "longitud":-110.3005
+ },{
+ "title":"Tamaulipas", 
+ "valor":20.02,
+ "latitud":23.3557,
+ "longitud":-99.1845
+ },{
+ "title":"Baja California", 
+ "valor":23.53,
+ "latitud":25.7133,
+ "longitud":25.7133
+ },{
+ "title":"Aguascalientes", 
+ "valor":19.37,
+ "latitud":21.8818,
+ "longitud":-102.291
+ },{
+ "title":"Jalisco", 
+ "valor":21.9,
+ "latitud":25.4375,
+ "longitud":-111.9028
+ }]
