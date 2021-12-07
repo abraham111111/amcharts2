@@ -1,16 +1,16 @@
 [{
  "title":"Chihuahua", 
- "valor":23.01,
+ "valor":"23.01",
  "Latitude":28.635279999999998,
  "Longitude":-106.08888999999999
  },{
  "title":"Nuevo León", 
- "valor":21.83,
+ "valor":"21.83",
  "Latitude":25.6714,
  "Longitude":-100.309
  },{
  "title":"Ciudad de México", 
- "valor":25.21,
+ "valor":"25.21",
  "Latitude":19.42847,
  "Longitude":-99.12765999999999
  },{
