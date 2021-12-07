@@ -1,31 +1,31 @@
 [{
- "Latitude":28.635279999999998,
- "Longitude":-106.08888999999999
+ "latitude":28.635279999999998,
+ "longitude":-106.08888999999999
  },{
- "Latitude":25.6714,
- "Longitude":-100.309
+ "latitude":25.6714,
+ "longitude":-100.309
  },{
- "Latitude":19.42847,
- "Longitude":-99.12765999999999
+ "latitude":19.42847,
+ "longitude":-99.12765999999999
  },{
- "Latitude":15.7611,
- "Longitude":-92.5947
+ "latitude":15.7611,
+ "longitude":-92.5947
  },{
- "Latitude":27.2722,
- "Longitude":-101.9458
+ "latitude":27.2722,
+ "longitude":-101.9458
  },{
- "Latitude":24.144370000000002,
- "Longitude":-110.3005
+ "latitude":24.144370000000002,
+ "longitude":-110.3005
  },{
- "Latitude":23.3557,
- "Longitude":-99.1845
+ "latitude":23.3557,
+ "longitude":-99.1845
  },{
- "Latitude":25.7133,
- "Longitude":25.7133
+ "latitude":25.7133,
+ "longitude":25.7133
  },{
- "Latitude":21.8818,
- "Longitude":-102.291
+ "latitude":21.8818,
+ "longitude":-102.291
  },{
- "Latitude":25.4375,
- "Longitude":-111.9028
+ "latitude":25.4375,
+ "longitude":-111.9028
  }]
