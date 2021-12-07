@@ -1,41 +1,41 @@
 [{
  "valor":23.01,
- "latitud":28.635279999999998,
- "longitud":-106.08888999999999
+ "latitude":28.635279999999998,
+ "longitude":-106.08888999999999
  },{
  "valor":21.83,
- "latitud":25.6417185
- "longitud":-100.2935915
+ "latitude":25.6417185
+ "longitude":-100.2935915
  },{
  "valor":25.21,
- "latitud":19.432836,
- "longitud":-99.153366
+ "latitude":19.432836,
+ "longitude":-99.153366
  },{
  "valor":19.72,
- "latitud":25.540505,
+ "latitude":25.540505,
  "longitud":-103.460398
  },{
  "valor":19.72,
- "latitud":27.2722,
- "longitud":-101.9458
+ "latitude":27.2722,
+ "longitude":-101.9458
  },{
  "valor":24.12,
- "latitud":24.144370000000002,
- "longitud":-110.3005
+ "latitude":24.144370000000002,
+ "longitude":-110.3005
  },{
  "valor":20.02,
- "latitud":25.8365675,
- "longitud":-98.362531
+ "latitude":25.8365675,
+ "longitude":-98.362531
  },{
  "valor":23.53,
- "latitud":25.7133,
- "longitud":25.7133
+ "latitude":25.7133,
+ "longitude":25.7133
  },{
  "valor":19.37,
- "latitud":21.8818,
- "longitud":-102.291
+ "latitude":21.8818,
+ "longitude":-102.291
  },{
  "valor":21.9,
- "latitud":20.676652,
- "longitud":-103.335882
+ "latitude":20.676652,
+ "longitude":-103.335882
  }]
